@@ -31,7 +31,4 @@ A RESTful API that allows users to log, manage, and analyze their daily health d
 
 ## Getting Started
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/healthtrack-api.git
-cd healthtrack-api
+
